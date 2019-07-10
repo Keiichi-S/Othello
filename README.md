@@ -1,8 +1,10 @@
-This is a sauce code which can play Othello.
+このソースコードはオセロをプレイするためのものです。
 
- ~First~
-  In directory named "Othello" : javac Game.java
- ~Second~
-  cd ../
- ~Third~
-  java Othello.Game
+使用方法
+はじめに、リポジトリをクローンしてください。
+othelloディレクトリ内で、以下のコマンドを打ちコンパイラしてください。
+ $ javac Game.java
+以下のコマンドをうち、othelloディレクトリから抜け出してください。
+ $ cd ../
+以下のコマンドを打ち、実行してください。
+ $ java othello.Game
