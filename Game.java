@@ -1,4 +1,4 @@
-package othello;
+package Othello;
 
 import java.awt.Button;
 import java.awt.Font;
